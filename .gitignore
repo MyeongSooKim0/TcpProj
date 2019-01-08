@@ -1,0 +1,8 @@
+.qmake.stash
+debug/
+.vs/
+GeneratedFiles/
+*.user
+release/
+TCP01.vcxproj
+TCP01.vcxproj.filters
